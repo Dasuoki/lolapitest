@@ -21,7 +21,6 @@ namespace lolapitestapp
         string id = "";
 
         Dictionary<string, string> Summoner; 
-        Dictionary<Dictionary<string,string>,string> sada;
 
         string downloadJson(string region, string jsonadd1, string jsonadd2, string name, string apikey)
         {
