@@ -1,0 +1,11 @@
+F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\bin\Debug\lolapitestapp.exe.config
+F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\bin\Debug\lolapitestapp.exe
+F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\bin\Debug\lolapitestapp.pdb
+F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\obj\Debug\lolapitestapp.csprojResolveAssemblyReference.cache
+F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\obj\Debug\lolapitestapp.Form1.resources
+F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\obj\Debug\lolapitestapp.Properties.Resources.resources
+F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\obj\Debug\lolapitestapp.csproj.GenerateResource.Cache
+F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\obj\Debug\lolapitestapp.exe
+F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\obj\Debug\lolapitestapp.pdb
+F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\bin\Debug\Newtonsoft.Json.dll
+F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\bin\Debug\Newtonsoft.Json.xml
