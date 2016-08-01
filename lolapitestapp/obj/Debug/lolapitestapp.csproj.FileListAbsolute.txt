@@ -9,3 +9,6 @@ F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\obj\Debug\lolapitestapp.exe
 F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\obj\Debug\lolapitestapp.pdb
 F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\bin\Debug\Newtonsoft.Json.dll
 F:\~Programiranje\2k16\lolapitestapp\lolapitestapp\bin\Debug\Newtonsoft.Json.xml
+F:\~Programiranje\2k16\lolapitest\lolapitestapp\bin\Debug\lolapitestapp.exe.config
+F:\~Programiranje\2k16\lolapitest\lolapitestapp\obj\Debug\lolapitestapp.exe
+F:\~Programiranje\2k16\lolapitest\lolapitestapp\obj\Debug\lolapitestapp.pdb

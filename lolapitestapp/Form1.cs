@@ -58,7 +58,7 @@ namespace lolapitestapp
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void doMagic(object sender, EventArgs e)
         {
             setSummoner();
             getBasicInfo();
